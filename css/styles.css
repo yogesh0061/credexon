@@ -1,0 +1,18 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: 600;
+  background-color: #000;
+  color: #fff;
+
+}
+
+h1,h2,h3{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 4rem;
+
+}
+
+.social-icon{
+  padding: 10px;
+}
